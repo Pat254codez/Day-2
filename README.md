@@ -1,7 +1,20 @@
 # Day-2
 # se-day-2-git-and-github
 # 1. Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+## Fundamental concepts of version control
+###  Repository
+### Commit
+### Branch
+### Staging Area
+### Working Directory
+
+## Why GitHub is a popular tool for managing versions of code
+### stores these versions online so you can share your project, collaborate, or back it up safely.
+
+
+
 # 2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
+## Go to profile thenclick on create a new repositiory
 # 3. Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 # 4. Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 # 5. Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
